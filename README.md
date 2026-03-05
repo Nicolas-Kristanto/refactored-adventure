@@ -13,5 +13,16 @@
 
 ## 📦 Cara Menjalankan
 1. Clone repositori ini:
-   ```bash
+
+   bash
    git clone [https://github.com/USERNAME_KAMU/refactored-adventure.git](https://github.com/USERNAME_KAMU/refactored-adventure.git)
+
+2. Masuk ke direktori proyek:
+
+   Bash
+   cd refactored-adventure
+
+3. Jalankan file utama:
+
+   Bash
+   python main.py
