@@ -15,7 +15,7 @@
 1. Clone repositori ini:
 
    bash
-   git clone [https://github.com/USERNAME_KAMU/refactored-adventure.git](https://github.com/USERNAME_KAMU/refactored-adventure.git)
+   git clone [https://github.com/USERNAME_KAMU/refactored-adventure.git](https://github.com/Nicolas-Kristanto/refactored-adventure.git)
 
 2. Masuk ke direktori proyek:
 
